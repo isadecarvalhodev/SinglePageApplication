@@ -1,3 +1,3 @@
-SinglePageApplication
+<h1 align="center">SinglePageApplication</h1>
 
-Work in progress
+<p align="center">Work in progress</p>
