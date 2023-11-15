@@ -1,3 +1,3 @@
-# SinglePageApplication
+SinglePageApplication
 
 Work in progress
