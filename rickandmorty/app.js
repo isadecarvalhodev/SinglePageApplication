@@ -2,6 +2,7 @@ fetch("https://rickandmortyapi.com/api/character")
     .then(response => response.json())
     .then(data => makeCards(data.results))
 
+    /*Fetch the id name and img  */
     function makeCards(characterArray) {
         
         const cardContainer = document.querySelector('#card-container')
