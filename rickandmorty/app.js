@@ -16,4 +16,6 @@ fetch("https://rickandmortyapi.com/api/character")
         })
     }
 
+    console.log("heyyy");
+
 
